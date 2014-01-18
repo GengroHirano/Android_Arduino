@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bluetooth_ArduinoControll</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="stop">停止</string>
+    <string name="go">前進</string>
+    <string name="right">右旋回</string>
+    <string name="left">左旋回</string>
+    <string name="back">後退</string>
+    <string name="peared">接続履歴のあるデバイス</string>
+    <string name="Search">デバイスを検索</string>
+    <string name="selfDevice">自デバイスの検出</string>
+    <string name="nonpear">検出したデバイス</string>
+
+</resources>
